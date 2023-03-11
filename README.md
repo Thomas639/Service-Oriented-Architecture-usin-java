@@ -25,4 +25,6 @@ Service consumer can find set of services through the service broker and utilize
 
 I have also enabled authentication for service providers so that only registered users can add services into broker.
 
+All these modules interact with each other through sockets.
+
 Run each program in a separate terminal at the same time to start.
